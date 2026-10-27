@@ -1,0 +1,6 @@
+{
+  "name": "RailUrja – Railway Vibration Energy Harvesting System",
+  "description": "Full-screen real-time railway vibration energy harvesting dashboard with Bluetooth and Wi-Fi hardware integration, high-resolution live graphs, and IndexedDB persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
